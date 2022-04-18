@@ -1,6 +1,5 @@
-## Hi there, I'm Oussama Rbiay - aka [Orbiay] 👋 
+## Hi there, I'm Oussama Rbiay [Orbiay] 👋 
 
-### hey there 👋
 
 ![](https://badge.mediaplus.ma/darkgray/orbiay)
 
