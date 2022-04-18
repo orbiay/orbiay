@@ -1,9 +1,9 @@
 ## Hi there, I'm Oussama Rbiay - aka [Orbiay] 👋 
 
 <p align="center">
-<!--     <a href="https://github.com/orbiay">
+    <a href="https://github.com/orbiay">
     <img src="https://img.shields.io/github/watchers/orbiay/orbiay?label=Profile%20Views&style=for-the-badge" alt="GitHub badge" />
-  </a> -->
+  </a>
   <a href="https://github.com/orbiay">
     <img src="https://img.shields.io/github/followers/orbiay?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
